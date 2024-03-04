@@ -1,0 +1,6 @@
+1. Github Account 
+2. Create a empty repo
+3. Local system
+    - user name
+    - user email
+4. Git push
